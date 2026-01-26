@@ -1,4 +1,4 @@
-COMP2322 Multi-Threaded Web Server
+Multi-Threaded Web Server
 Cheung Kei Yau
 23088621d
 
@@ -23,4 +23,5 @@ The default port for the program is 8000.
 		- 404 File Not Found
         - 415 Unsupported Media Type
 	- Last-Modified and If-Modified-Since header fields
+
 	- Keep-Alive header field
