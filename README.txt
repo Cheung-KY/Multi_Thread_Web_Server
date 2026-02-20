@@ -1,5 +1,4 @@
-Multi-Threaded Web Server
-Cheung Kei Yau
+Score: 92/100
 
 #Usage
 1. put the request source files into folder ./web
@@ -24,5 +23,6 @@ The default port for the program is 8000.
 	- Last-Modified and If-Modified-Since header fields
 
 	- Keep-Alive header field
+
 
 
